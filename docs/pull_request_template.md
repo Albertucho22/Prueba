@@ -8,7 +8,7 @@
 
 # Checklist:
 
-- [ ] Unit Tests
+- [X] Unit Tests
 - [ ] Integration Tests
 - [ ] Linter
 - [ ] Doc Updated
