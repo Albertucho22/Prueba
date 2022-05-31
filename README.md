@@ -1,3 +1,1 @@
-Nombre: Alberto Jose Dominguez Lizardo
-Matricula: 1089458
-frvasquezjaquez
+Alberto Jose Dominguez Lizardo | 1089458, Joan Ogando Martinez | 1095252
